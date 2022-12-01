@@ -16,7 +16,7 @@ public class SumTest {
 	
 	@Test
 	public void testSum() {
-		assertEquals(18, sumService.sum(10, 7));
+		assertEquals(17, sumService.sum(10, 7));
 	}
 	
 }
